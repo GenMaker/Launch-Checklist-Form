@@ -69,19 +69,6 @@ window.addEventListener("load", function() {
 
    });
 });
-/*
-
-2.
-
-
-   
-3. update teh piolot names and the launch status
-4. update jason for teh launch destination
-   (lke the studio)
-
-*/
-
-
 
 
 /* This block of code shows how to format the HTML once you fetch some planetary JSON!
